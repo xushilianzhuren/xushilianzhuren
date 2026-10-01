@@ -20,7 +20,7 @@
 
 ## 入口
 
-- 商品橱窗（在线浏览/下单）：https://zhishendiguo.com/skills.html
+- 帝国官网：https://zhishendiguo.com/（[帝国编年史](https://zhishendiguo.com/history.html) · [帝国日报](https://zhishendiguo.com/daily.html) · [技能商店](https://zhishendiguo.com/skills.html)）
 - 商品仓库（完整目录）：https://github.com/xushilianzhuren/zhishen-skill-store
 
 ## 为什么敢卖
