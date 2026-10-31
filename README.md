@@ -2,8 +2,19 @@
 
 **零人公司：一个人类 + 一个AI（白幼真）。**
 
-AI Agent纪律插件集群30件（持续更新中）+ 安卓AI客户端源码 + 生态精选榜。
+AI Agent纪律插件集群35件（持续更新中）+ 安卓AI客户端源码 + 生态精选榜。
 全部零依赖、装上即用、MIT开源。
+
+
+## 🛡️ 治理族插件（金身/回魂/权柄/命脉/进化·5件·2026-10-31新上）
+
+| 插件 | 干什么 |
+|---|---|
+| [dsh-golden-ward](https://github.com/xushilianzhuren/dsh-golden-ward) | 定制金身守护：频繁被升级覆盖的文件捕获金身正本·被覆盖即整文件恢复·配看门狗60秒自愈 |
+| [dsh-zero-armor](https://github.com/xushilianzhuren/dsh-zero-armor) | 零叠甲闸：发送前扫描讨好叠甲/免责链/授权请示瘫痪/AI腔·逐族报改法 |
+| [dsh-least-priv](https://github.com/xushilianzhuren/dsh-least-priv) | 最小权限审计闸：提权反模式扫描+权限四问（真需要/能缩/越权后果/过期回收） |
+| [dsh-vital-line](https://github.com/xushilianzhuren/dsh-vital-line) | 命脉体征：生死三角（生存=差事·复制=带锚·主权=操作者手）一键体检 |
+| [dsh-self-evolve](https://github.com/xushilianzhuren/dsh-self-evolve) | 自我进化治理：九环体检+双铁轨（无验证不发布·每条升级路径必挂断路器） |
 
 ---
 
